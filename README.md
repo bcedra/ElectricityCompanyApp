@@ -33,6 +33,5 @@ trying to register does not have a client number in the database, the registrati
 will not be accepted!
 - CRUD on clients’ information
 - CRUD on complaint records
-- Generate reports from complaint letters:
-    o average notes for each quality evaluated by costumer
+- Generate reports from complaint letters: average notes for each quality evaluated by costumer
 
